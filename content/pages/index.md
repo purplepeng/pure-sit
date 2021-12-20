@@ -103,6 +103,12 @@ sections:
       - label: Let's start
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
